@@ -1,6 +1,6 @@
-# 🚀 SpeedChanger 1V
+# 🚀 SpeedChanger V1.0
 
-Welcome to **SpeedChanger 1V**!  
+Welcome to **SpeedChanger V1.0**!  
 With this little tool, you can boost or chill your computer’s speed – just pick your mode and go! 🏎️💨
 
 ## Features
